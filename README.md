@@ -89,4 +89,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Thanks to [freeCodeCamp](https://www.freecodecamp.org/) for providing the project guidelines.
-```
+

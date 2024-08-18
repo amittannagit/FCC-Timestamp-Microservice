@@ -90,20 +90,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Thanks to [freeCodeCamp](https://www.freecodecamp.org/) for providing the project guidelines.
 ```
-
-### Instructions for Using the `README.md`
-
-1. **Add the `README.md` to Your Project**:
-   - Create a file named `README.md` in the root of your project directory.
-   - Copy and paste the content above into the `README.md` file.
-
-2. **Customize (Optional)**:
-   - You can customize the `README.md` by adding additional details, such as your personal notes or additional instructions for deployment.
-
-3. **Commit and Push to GitHub**:
-   - After adding the `README.md`, commit the changes:
-     ```bash
-     git add README.md
-     git commit -m "Add README.md"
-     git push origin master
-     ```
